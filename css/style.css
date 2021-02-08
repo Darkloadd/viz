@@ -1,0 +1,28 @@
+body {
+  background-color:#C0C0C0
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 5px;
+  border-color: grey;
+}
+
+h1 {
+  color: black;
+  text-shadow: 2px 2px 1px black;
+  font-family: Georgia;
+}
+
+h2 {
+  color: #ffffff;
+  text-shadow: 2px 2px 4px gray;
+  font-family: cursive, serif;
+  text-decoration: underline;
+}
+
+h3 {
+  color: #000066;
+}
